@@ -6,6 +6,7 @@ Este espacio reúne ejercicios, visualizaciones y análisis desarrollados en Pyt
 
   **Análisis macroeconómico de Chile (2015–2025)**  
 Estudio de variables clave como PIB, inflación y participación sectorial durante el gobierno de Gabriel Boric.
+
 👉 [Accede al repositorio del proyecto completo](https://github.com/josemig-es/chile-macroeconomia-2022-2025)
 
 ## Tecnologías principales
